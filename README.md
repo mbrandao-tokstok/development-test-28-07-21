@@ -7,7 +7,7 @@ Sejam bem-vindos a próxima etapa galera.
 ## Desafio do palíndromo
 
 Um palíndromo é uma frase ou palavra que se pode ler, indiferentemente, da esquerda para a direita ou vice-versa. Exemplos de palíndromos "osso", "ovo", "reviver".
-O desafio consiste, dado uma palavra ou frase, exibir "Sim" ou "Não" se a palavra for um palindromo.  
+O desafio consiste, dado uma palavra ou frase, exibir "Sim" ou "Não" se a palavra for um palíndromo.  
 
 **Exemplo 1:** Dado a frase "Socorram-me, subi no ônibus em Marrocos" o resultado seria: "Sim".
 
